@@ -1,0 +1,8 @@
+## Interface: 80200
+## Title: ItemTooltipIcon
+## Author: phyber
+## Notes: Shows the item icon next to the item tooltip
+## Version: @project-version@
+## X-Category: Interface Enhancements
+
+ItemTooltipIcon.lua
