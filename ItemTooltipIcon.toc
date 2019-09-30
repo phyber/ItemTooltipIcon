@@ -1,4 +1,4 @@
-## Interface: 80205-1
+## Interface: 80205
 ## Title: ItemTooltipIcon
 ## Author: phyber
 ## Notes: Shows the item icon next to the item tooltip
